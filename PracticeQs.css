@@ -1,0 +1,22 @@
+* {
+    font-family: courier new;
+}
+
+h1 {
+    color: #1b74e4;
+}
+
+#searchbtn {
+    background-color: black;
+    color: aliceblue;
+}
+
+/* #login , #register  {
+    background-color: aqua;
+   
+} */
+
+.userbtn {
+
+    background-color: aqua;
+}
